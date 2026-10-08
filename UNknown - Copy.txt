@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 rebase if let i have created 4 branch the all will be marge into main thenkbuy  vanish?
 =======
 rebase if let i have created 4 branch the all will be marge into main then vanish?
 >>>>>>> dev
+=======
+rebase if let i have created 4 branch the all will be marge into main then vanish?
+>>>>>>> 3b8e61367a552a34bd058e3eeea4c64019c7c8c4
